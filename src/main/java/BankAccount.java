@@ -3,7 +3,7 @@ import java.math.BigDecimal;
 /**
  * Defines what operations to do with an account
  */
-public interface Account {
+public interface BankAccount {
 
     /**
      * Check balance of the account
